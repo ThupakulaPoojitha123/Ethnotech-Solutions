@@ -1,3 +1,4 @@
+//method overriding
 class ReserveBank{
 	String  name;
 	int acNumber;
